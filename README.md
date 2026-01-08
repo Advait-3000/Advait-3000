@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Advait Warang</h1>
-<h3 align="center">Aspiring Full Stack Developer | Backend & DSA Enthusiast 🚀</h3>
+<h3 align="center">Engineering Student | Aspiring Software Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/Advait-3000">GitHub</a> •
+  <a href="https://leetcode.com/u/Advait_Warang/">LeetCode</a> •
+  <a href="https://www.linkedin.com/in/advait-warang-262574372/">LinkedIn</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Learning **Full Stack Development & Databases**
-- 🧠 Solving **DSA problems on LeetCode**
-- ⚙️ Interested in **Backend Development, APIs & System Design**
-- 🎯 Goal: Build scalable real-world applications
+## 🚀 About Me
+- 🎓 Engineering student
+- 💻 Interested in **Backend Development, Web Development & DSA**
+- 🌱 Currently learning **Node.js, Databases & System Design**
+- 🧠 Practicing problem-solving on **LeetCode**
+- 📍 India
 
 ---
-
 ## 🔗 Profiles
 <p align="left">
   <a href="https://github.com/Advait-3000" target="_blank">
@@ -27,20 +33,29 @@
 ---
 
 ## 🧠 LeetCode Stats
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Advait_Warang?theme=tokyonight&font=Karma&ext=heatmap&border=0" />
+  <img src="https://leetcode-stats.vercel.app/api?username=Advait_Warang&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Advait_Warang?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📈 GitHub Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Advait-3000&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Advait-3000&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats-git-master-advait-3000s-projects.vercel.app/api?username=Advait-3000&show_icons=true&theme=tokyonight&hide_border=true"
@@ -54,13 +69,33 @@
 
 ---
 
-## 🌟 Top Languages (Donut Style)
+## 🛠️ Top Languages & Tools
+
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-master-advait-3000s-projects.vercel.app/api/top-langs/?username=Advait-3000&layout=donut&langs_count=8&theme=tokyonight&hide_border=true"
-  />
+  <!-- <img src="https://skillicons.dev/icons?i=cpp" height="40"/> -->
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <!-- <img src="https://skillicons.dev/icons?i=linux" height="40"/> -->
 </p>
 
 ---
 
-⭐️ *If you like my work, consider giving a ⭐ to my repositories!*  
+## 📌 Currently Working On
+- 🚀 Strengthening **DSA**
+- 🌐 Building **Backend & Full Stack Projects**
+- 🧠 Learning **Databases & System Design**
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/advait-warang-262574372/
+- 💻 GitHub: https://github.com/Advait-3000
+- 🧠 LeetCode: https://leetcode.com/u/Advait_Warang/
+
+---
+
+⚡ *Consistency beats motivation. Every single day.*
