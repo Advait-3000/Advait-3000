@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Activity Heatmap
+## 📊 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Advait-3000&theme=tokyo-night&hide_border=true&area=true" />
 </p>
@@ -43,24 +43,24 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Advait-3000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
+    src="https://github-readme-stats-git-master-advait-3000s-projects.vercel.app/api?username=Advait-3000&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Advait-3000&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-git-master-advait-3000s-projects.vercel.app/api/top-langs/?username=Advait-3000&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
   />
 </p>
 
 ---
 
-## 🌟 Top Languages
+## 🌟 Top Languages (Donut Style)
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advait-3000&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-git-master-advait-3000s-projects.vercel.app/api/top-langs/?username=Advait-3000&layout=donut&langs_count=8&theme=tokyonight&hide_border=true"
   />
 </p>
 
 ---
 
-⭐️ *If you like my work, consider giving a ⭐ to my repositories!*
+⭐️ *If you like my work, consider giving a ⭐ to my repositories!*  
